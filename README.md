@@ -1,7 +1,7 @@
 # Phishing Email Detector
 
 ## Description
-A beginner cybersecurity project that analyzes email content
+Cybersecurity project that analyzes email content
 to identify potential phishing attempts and raise user awareness.
 
 ## Features
