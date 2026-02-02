@@ -1,0 +1,12 @@
+Subject: Urgent! Account Verification Required
+
+Dear User,
+
+Your account has been suspended.
+Click the link below to verify your details immediately:
+
+http://secure-bank-login.verify-now.com
+
+Failure to act will result in permanent suspension.
+
+Security Team
